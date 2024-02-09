@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+I'm a software developer based in Brazil, currently diving deep into the world of JavaScript.
+
+
 <!--
+- :seedling: I'm currently learning React and Node
+- :muscle: Software engineering undergraduate
 **boraladiogo/boraladiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
