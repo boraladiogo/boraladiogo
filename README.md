@@ -1,6 +1,16 @@
-### Hi there 👋
+## Hello 👋
 
 I'm a software developer based in Brazil, currently diving deep into the world of JavaScript.
+
+
+### Skills
+- Advanced knowledge in JavaScript and its frameworks
+- Experienced in both front-end and back-end development
+- Strong problem-solving abilities and attention to detail
+- Continuous learner, committed to learning and improving
+
+### Current Focus
+Deepening my understanding of Algorithms, Data Structures, and JavaScript to build effective web applications.
 
 
 <!--
