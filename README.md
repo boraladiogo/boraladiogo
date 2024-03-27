@@ -12,6 +12,12 @@ I'm a software developer based in Brazil, currently diving deep into the world o
 ### Current Focus
 Deepening my understanding of Algorithms, Data Structures, and JavaScript to build effective web applications.
 
+<br>
+
+---
+
+[Discord](https://discordapp.com/users/1204664533969281084) [Gmail](mailto:boraladiogo@gmail.com)
+
 
 <!--
 - :seedling: I'm currently learning React and Node
