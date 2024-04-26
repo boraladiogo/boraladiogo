@@ -16,7 +16,7 @@ Deepening my understanding of Algorithms, Data Structures, and JavaScript to bui
 
 ---
 
-[Discord](https://discordapp.com/users/1204664533969281084) [Gmail](mailto:boraladiogo@gmail.com)
+Reach me out at [Discord](https://discordapp.com/users/1204664533969281084) or [Gmail](mailto:boraladiogo@gmail.com)
 
 
 <!--
